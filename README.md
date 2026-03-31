@@ -1,1 +1,19 @@
-# network-traffic-analysis
+# 🌐 Network Traffic Analysis
+
+## Objective
+Analyze network traffic using Wireshark.
+
+## Tools
+- Wireshark
+
+## Features
+- Packet capture
+- Protocol analysis (HTTP, DNS, TCP, TLS)
+- Traffic filtering
+- Basic anomaly detection
+
+## Screenshots
+(Add screenshots here)
+
+## Conclusion
+Understanding network traffic helps detect anomalies and improve security.
