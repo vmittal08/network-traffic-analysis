@@ -12,8 +12,5 @@ Analyze network traffic using Wireshark.
 - Traffic filtering
 - Basic anomaly detection
 
-## Screenshots
-(Add screenshots here)
-
 ## Conclusion
 Understanding network traffic helps detect anomalies and improve security.
